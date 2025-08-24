@@ -37,12 +37,12 @@ cd history-of-space-exploration
 ## 📷 Screenshots (Optional)
 
 
-```markdown
+
 <img width="1895" height="851" alt="image" src="https://github.com/user-attachments/assets/5a04d9ca-f9c3-437c-913f-1794fed82e91" />
 
 <img width="1878" height="932" alt="image" src="https://github.com/user-attachments/assets/2d315469-0f13-44a6-a23c-e5fdfb937f79" />
  
-```
+
 
 ---
 
