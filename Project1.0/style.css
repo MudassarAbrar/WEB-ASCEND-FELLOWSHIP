@@ -1,0 +1,136 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+p {
+  margin: 10px 0;
+  line-height: 1.6;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+img {
+  width: 60px;
+  height: auto;
+  display: inline;
+}
+
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul, ol {
+  margin: 10px 20px;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 15px 0;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background: #f2f2f2;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+form {
+  margin: 20px 0;
+}
+
+input, select, textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  margin: 5px 0 15px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+#links{
+    text-align: center;
+}
+
+#event{
+    text-align: center;
+    margin-top: 20px;
+}
+nav {
+  background: #333;
+  color: white;
+  padding: 10px;
+  
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+}
+
+header, footer {
+  background: #f1f1f1;
+  padding: 15px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+}
+
+article {
+  margin: 20px 0;
+  padding: 15px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+aside {
+  padding: 15px;
+  background: #f7f7f7;
+  border: 1px solid #ddd;
+}
+
+div {
+  margin: 10px 0;
+}
